@@ -57,4 +57,19 @@
   .popural_descoption {
     font-size: 14px;
   }
+
+  .destnison_text_areya {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .img_boxesh1 {
+    flex-direction: column;
+  }
+  .destnison_box2 {
+    flex-direction: column;
+  }
+  .destinon_boxed3 {
+    flex-direction: column;
+  }
 }
