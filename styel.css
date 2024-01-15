@@ -383,3 +383,93 @@ nav {
   font-weight: 400;
   line-height: 26px;
 }
+/* input sectin */
+#input_section_areya {
+  width: 85%;
+  margin: 100px auto;
+}
+.input_section {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.input_text_areya {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  padding: 0 3rem;
+  border-radius: 16px;
+  border: 1px solid #ff5400;
+}
+.input_text_areya input {
+  width: 100%;
+  margin: 0 auto;
+  height: 3rem;
+  border-radius: 8px;
+  background: rgba(19, 19, 24, 0.05);
+  margin-top: 1rem;
+  border: none;
+  outline: none;
+  color: rgba(19, 19, 24, 0.3);
+  padding-left: 1rem;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.input_titel {
+  color: #131318;
+
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.input_descoption {
+  color: #5a5a5d;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+hr {
+  margin-bottom: 1.5rem;
+  background: rgba(19, 19, 24, 0.1);
+}
+.submite_btn {
+  width: 100%;
+  color: #fff;
+  font-size: 1.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border-radius: 8px;
+  background: #ff5400;
+  border: none;
+  height: 3rem;
+  margin-top: 1.5rem;
+}
+.input_img_areya img {
+  width: 100%;
+  max-width: 100%;
+}
+.save_travel {
+  border-radius: 16px;
+  background: #ff5400;
+}
+.input_img_areya {
+  position: relative;
+}
+.save_travel {
+  padding: 0.8rem 1rem 0.8rem 1rem;
+  position: absolute;
+  bottom: 3.5rem;
+  right: 5px;
+  transform: rotate(-20deg);
+  text-align: center;
+  color: #fff;
+}

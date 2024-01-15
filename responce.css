@@ -112,4 +112,17 @@
   .price_descoption {
     font-size: 14px;
   }
+  .input_section {
+    flex-direction: column;
+  }
+  .input_text_areya {
+    width: 100%;
+  }
+  .submite_btn {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .input_descoption {
+    margin-bottom: 1rem;
+  }
 }
