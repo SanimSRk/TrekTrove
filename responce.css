@@ -72,4 +72,44 @@
   .destinon_boxed3 {
     flex-direction: column;
   }
+
+  .destnion_text_titel {
+    font-size: 1.6rem;
+  }
+  .destnison_descoption {
+    font-size: 14px;
+  }
+  .hotel_section_text {
+    width: 100%;
+  }
+  .Hotel_and_serbice {
+    flex-direction: column;
+  }
+  .price_section {
+    width: 100%;
+  }
+  .hotel_text_titel {
+    font-size: 1.6rem;
+  }
+  .hotel_text_descoption {
+    font-size: 14px;
+  }
+  .hotel_section_titel {
+    font-size: 1.6rem;
+  }
+  .hotel_section_descoption {
+    font-size: 14px;
+  }
+  .service_section_titel {
+    font-size: 1.6rem;
+  }
+  .service_descoption {
+    font-size: 14px;
+  }
+  .price_titel {
+    font-size: 1.6rem;
+  }
+  .price_descoption {
+    font-size: 14px;
+  }
 }

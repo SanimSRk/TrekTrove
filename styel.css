@@ -274,3 +274,112 @@ nav {
   max-width: 100%;
   object-fit: cover;
 }
+
+/* hotel and service section*/
+
+#Hotel_all_service {
+  width: 85%;
+  margin: 0 auto;
+}
+.hotel_section_text {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hotel_text_titel {
+  color: #131318;
+
+  font-size: 2.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.hotel_text_descoption {
+  color: rgba(19, 19, 24, 0.7);
+
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 24px 0;
+}
+
+.Hotel_and_serbice {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.hotel_section {
+  padding: 1rem;
+  border-radius: 16px;
+  border: 1px solid rgba(251, 181, 99, 0.2);
+  background: rgba(251, 181, 99, 0.05);
+}
+.hotel_section_titel {
+  color: #131318;
+  margin: 1.7rem 0 1rem 0;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.hotel_section_descoption {
+  color: #5a5a5d;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.service_section {
+  padding: 1rem;
+  border-radius: 16px;
+  border: 1px solid rgba(41, 206, 246, 0.2);
+  background: rgba(41, 206, 246, 0.05);
+}
+
+.service_section_titel {
+  color: #131318;
+  margin: 1.7rem 0 1rem 0;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.service_descoption {
+  color: #5a5a5d;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.price_section {
+  width: 50%;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 16px;
+  border: 1px solid rgba(251, 181, 99, 0.2);
+  background: rgba(251, 181, 99, 0.05);
+}
+
+.price_titel {
+  color: #131318;
+  margin: 1.7rem 0 1rem 0;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.price_descoption {
+  color: #5a5a5d;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
