@@ -1,0 +1,60 @@
+@media screen and (max-width: 600px) {
+  .nav_list_item {
+    display: none;
+  }
+  .nav_icon_areya {
+    display: flex;
+  }
+  .nav_titel {
+    font-size: 1.6rem;
+  }
+  .heroaaa_descoption {
+    width: auto;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .hero_titel {
+    color: #fff;
+    margin-top: 1rem;
+    font-size: 1.6rem;
+    font-weight: 800;
+  }
+  .hero_section_input {
+    margin-top: 1rem;
+  }
+  .box_input {
+    width: 100%;
+    margin-top: 1rem;
+  }
+  .icon_styel {
+    width: 100%;
+    margin-top: 1rem;
+  }
+  .populr_ture_section {
+    flex-direction: column;
+  }
+  .poular_text_areya {
+    width: 100%;
+  }
+  .popular_img_areya {
+    width: 100%;
+  }
+
+  .poular_titel {
+    font-size: 1.3rem;
+  }
+
+  .popular_desdcoption {
+    font-size: 14px;
+  }
+  .poular_text_areya ul {
+    padding: 0 2rem;
+  }
+  .poular_text_areya ul li {
+    font-size: 14px;
+  }
+
+  .popural_descoption {
+    font-size: 14px;
+  }
+}
