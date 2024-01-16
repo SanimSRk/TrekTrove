@@ -124,5 +124,9 @@
   }
   .input_descoption {
     margin-bottom: 1rem;
+    font-size: 14px;
+  }
+  .footer_contner_section {
+    width: 100%;
   }
 }
