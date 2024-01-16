@@ -16,8 +16,9 @@
   .hero_titel {
     color: #fff;
     margin-top: 1rem;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     font-weight: 800;
+    margin-bottom: 1rem;
   }
   .hero_section_input {
     margin-top: 1rem;
@@ -78,6 +79,14 @@
   }
   .destnison_descoption {
     font-size: 14px;
+  }
+
+  .img_destnison_titel {
+    position: absolute;
+
+    bottom: 50%;
+    left: 30%;
+    color: #fff;
   }
   .hotel_section_text {
     width: 100%;
@@ -162,5 +171,81 @@
   }
   .cox_bazar_text-areya ul li {
     font-size: 14px;
+  }
+  /* optnol task*/
+
+  .dels_and_descount_img_text_areya {
+    right: 1px;
+    top: 65px;
+    width: 100%;
+  }
+  .dels_text_areya {
+    width: 100%;
+  }
+
+  .dels_and_descount_titel {
+    font-size: 1.5rem;
+  }
+
+  .desls_and_descount_descoption {
+    margin-top: 1.3rem;
+    font-size: 14px;
+    margin-bottom: 2rem;
+  }
+  .descount_titels {
+    font-size: 14px;
+    margin-top: 1rem;
+  }
+  .dels_nad_descount_img_titel {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  .dels_descount_tile {
+    margin-top: 0.8rem;
+    font-size: 1.4rem;
+  }
+  .dels_turis_descoption {
+    color: #5a5a5d;
+    margin: 1rem 0;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0;
+  }
+
+  .desl_and_descount_price {
+    margin-top: 0;
+    font-size: 1rem;
+  }
+  .book_btn {
+    font-size: 1.3rem;
+
+    padding: 10px 24px;
+    border: none;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .descount_all_sectioned {
+    left: 0px;
+    top: 65px;
+    width: 100%;
+  }
+  .descount_text_sectioned {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .desl_nad_descount_headear {
+    right: 1px;
+    top: 65px;
+    width: 100%;
+  }
+
+  .desl_descount_headear_text_sectiom {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
   }
 }

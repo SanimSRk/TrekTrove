@@ -244,35 +244,104 @@ nav {
   max-width: 100%;
   object-fit: cover;
 }
+.destnison_img_box1 {
+  position: relative;
+}
+.img_destnison_titel {
+  position: absolute;
+
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
+}
+
 .destnison_img_box2 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
 }
+.destnison_img_box2 {
+  position: relative;
+}
+.img_destnison_box2_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
+}
+
 .destnison_img_box3 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
+}
+.destnison_img_box3 {
+  position: relative;
+}
+
+.destnioson_box3_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
 }
 .destnison_img_box4 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
 }
+.destnison_img_box4 {
+  position: relative;
+}
+.destnison_box4_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
+}
+
 .destnison_img_box5 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
+}
+.destnison_img_box5 {
+  position: relative;
+}
+
+.destnison_box5_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
 }
 .destnison_img_box6 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
 }
+.destnison_img_box6 {
+  position: relative;
+}
+.destnison_box6_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
+}
 .destnison_img_box7 img {
   width: 100%;
   max-width: 100%;
   object-fit: cover;
+}
+.destnison_img_box7 {
+  position: relative;
+}
+.destnison_box7_name {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  color: #fff;
 }
 
 /* hotel and service section*/
@@ -462,6 +531,7 @@ nav {
   margin-bottom: 2rem;
 }
 .dels_and_descount_img {
+  position: relative;
   height: 500px;
   background-image: url(image/Group\ 39.png);
   background-repeat: no-repeat;
@@ -479,6 +549,135 @@ nav {
   background-image: url(image/Group\ 39.png);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.descount_titels {
+  color: #5a5a5d;
+
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.color_box {
+  background-color: #ff5400;
+  border-radius: 100%;
+  border: none;
+  padding: 1rem;
+}
+
+.dels_and_descount_img_text_areya {
+  position: absolute;
+  right: 45px;
+  top: 40px;
+  width: 50%;
+
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  text-align: center;
+}
+
+.dels_nad_descount_img_titel {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+.descount_titels {
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  color: #5a5a5d;
+
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.dels_descount_tile {
+  margin-top: 2rem;
+  color: #131318;
+
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.dels_turis_descoption {
+  color: #5a5a5d;
+  margin: 1rem 0;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  padding: 0 3rem;
+}
+
+.desl_and_descount_price {
+  color: #ff5400;
+  margin-top: 1rem;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.book_btn {
+  border-radius: 8px;
+  background: #ff5400;
+  color: #fff;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  padding: 12px 28px;
+  border: none;
+  margin-top: 2.4rem;
+  margin-bottom: 3rem;
+}
+
+.dels_ande_descount_img_section {
+  position: relative;
+}
+.descount_all_sectioned {
+  position: absolute;
+  left: 45px;
+  top: 40px;
+  width: 50%;
+
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  text-align: center;
+}
+.descount_text_sectioned {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.desl_nad_descount_section_img {
+  position: relative;
+}
+
+.desl_nad_descount_headear {
+  position: absolute;
+  right: 45px;
+  top: 40px;
+  width: 50%;
+
+  border-radius: 16px;
+  border: 2px solid #fff;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(2.5px);
+  text-align: center;
+}
+.desl_descount_headear_text_sectiom {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
 }
 
 /*sample place section*/
