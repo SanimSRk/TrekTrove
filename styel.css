@@ -679,6 +679,9 @@ nav {
   gap: 2rem;
   justify-content: center;
 }
+.button_last_section {
+  text-align: center;
+}
 
 /*sample place section*/
 #sample_place_contner {

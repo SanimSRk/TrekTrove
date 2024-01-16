@@ -248,4 +248,7 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
   }
+  .button_last_section {
+    display: none;
+  }
 }
