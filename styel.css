@@ -383,6 +383,60 @@ nav {
   font-weight: 400;
   line-height: 26px;
 }
+/*sample place section*/
+#sample_place_contner {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.sample_place_areya {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.sample_plece_titel {
+  color: #131318;
+
+  font-size: 2.6rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 60px;
+}
+.sample_place_descoption {
+  color: #5a5a5d;
+  margin-top: 1.3rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.sample_place_text_areya {
+  width: 50%;
+}
+.sample_place_text_areya ul {
+  padding: 0 1rem;
+}
+.sample_place_text_areya ul li {
+  color: #131318;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+}
+.see_more_btn {
+  padding: 12px 30px;
+  border-radius: 8px;
+  background: #ff5400;
+  color: #fff;
+  border: none;
+  margin-top: 2rem;
+}
+.sample_palce_image_areya img {
+  width: 100%;
+  max-width: 100%;
+}
 /* input sectin */
 #input_section_areya {
   width: 85%;
@@ -523,7 +577,6 @@ footer {
 }
 .footer_descoption_areya {
   color: #131318;
-
   font-size: 1rem;
   font-style: normal;
   font-weight: 300;

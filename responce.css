@@ -11,7 +11,7 @@
   .heroaaa_descoption {
     width: auto;
     font-size: 14px;
-    margin-top: 10px;
+    margin-top: 0;
   }
   .hero_titel {
     color: #fff;
@@ -24,7 +24,7 @@
   }
   .box_input {
     width: 100%;
-    margin-top: 1rem;
+    margin-top: 0.7rem;
   }
   .icon_styel {
     width: 100%;
@@ -128,5 +128,21 @@
   }
   .footer_contner_section {
     width: 100%;
+  }
+  .sample_place_areya {
+    flex-direction: column;
+  }
+  .sample_place_text_areya {
+    width: 100%;
+  }
+
+  .sample_plece_titel {
+    font-size: 1.4rem;
+  }
+  .sample_place_descoption {
+    font-size: 14px;
+  }
+  .sample_place_text_areya ul li {
+    font-size: 14px;
   }
 }
