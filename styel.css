@@ -432,6 +432,55 @@ nav {
   font-weight: 700;
 }
 
+/* desl and descount styel section */
+#dels_and_descoun_contner {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.dels_text_areya {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.dels_and_descount_titel {
+  color: #131318;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 60px;
+}
+
+.desls_and_descount_descoption {
+  color: #5a5a5d;
+  margin-top: 1.3rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 2rem;
+}
+.dels_and_descount_img {
+  height: 500px;
+  background-image: url(image/Group\ 39.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dels_ande_descount_img_section {
+  margin: 1.6rem 0;
+  height: 500px;
+  background-image: url(image/Group\ 40.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.desl_nad_descount_section_img {
+  height: 500px;
+  background-image: url(image/Group\ 39.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /*sample place section*/
 #sample_place_contner {
   width: 85%;
