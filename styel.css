@@ -383,6 +383,55 @@ nav {
   font-weight: 400;
   line-height: 26px;
 }
+/*coxbazar section styel*/
+
+#bazar_section_contner {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.cox_bazar_contner {
+  display: flex;
+  gap: 2.5rem;
+}
+.cox_bazar_img img {
+  width: 100%;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.bazrar_head_section_img {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.cox_bazar_titel {
+  color: #131318;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 60px;
+}
+
+.cox_bazar_descoption {
+  color: #5a5a5d;
+  margin-top: 1.3rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.cox_bazar_text-areya ul {
+  padding: 1rem;
+}
+.cox_bazar_text-areya ul li {
+  color: #5a5a5d;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 700;
+}
+
 /*sample place section*/
 #sample_place_contner {
   width: 85%;

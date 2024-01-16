@@ -145,4 +145,22 @@
   .sample_place_text_areya ul li {
     font-size: 14px;
   }
+  .cox_bazar_contner {
+    flex-direction: column;
+  }
+  .bazrar_head_section_img {
+    flex-direction: column;
+  }
+
+  .cox_bazar_titel {
+    font-size: 1.6rem;
+  }
+
+  .cox_bazar_descoption {
+    margin-top: 1.3rem;
+    font-size: 14px;
+  }
+  .cox_bazar_text-areya ul li {
+    font-size: 14px;
+  }
 }
